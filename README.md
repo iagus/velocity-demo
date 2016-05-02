@@ -18,6 +18,6 @@ This demo is built on [Middleman](https://middlemanapp.com/).
 Copy the repository, run `bundle install` and finally `middleman` to start the local server.
 
 
-## Acknowledge!
+## Acknowledgements!
 
 The SVG was created by [Carlos Cabo](https://github.com/carloscabo) and his awesome Illustrator kung-fu!
